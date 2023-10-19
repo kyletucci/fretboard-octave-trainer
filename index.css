@@ -29,3 +29,8 @@ html, body {
 .noteButton:hover, .noteButton:focus{
     outline: solid 4px white;
 }
+
+h1 {
+    color: white;
+    text-align: center;
+}
